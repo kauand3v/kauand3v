@@ -51,22 +51,25 @@ I am a **Software Engineer** with 1+ year of hands-on experience architecting sy
 
 <br/>
 
-### 🚀 Featured Projects
+###  Featured Projects
 
-#### 🧠 AI & Distributed Systems
+####  AI & Distributed Systems
 *   **[KoreAI](https://github.com/kauand3v/KoreAI)** - *Multi-Agent LLM Orchestration Platform.* Solves fragile single prompts and context loss using Python, Qdrant (RAG), and Redis. Features sandboxed execution for AI-generated code.
 *   **[titan-db](https://github.com/kauand3v/titan-db)** - *Distributed Key-Value Store.* Built from scratch in Go. Implements the **Raft consensus algorithm** and custom binary RPC over TCP for high availability and fault tolerance.
 
-#### ⚡ Real-Time & Security
+####  Real-Time & Security
 *   **[Pulse-Ops](https://github.com/kauand3v/Pulse-Ops)** - *Real-Time Monitoring Platform.* Eliminates HTTP polling overhead. Built with Go, WebSockets, and Redis Pub/Sub to deliver operational data with zero-latency updates.
 *   **[Tenentis-Os](https://github.com/kauand3v/Tenentis-Os)** - *Secure Multi-Tenant SaaS Backend.* Focuses on strict data isolation and security using PostgreSQL Row-Level Security (RLS) and Zero-Trust architecture.
 
-#### 🌐 Gateways, Fintech & Sync
+####  Gateways, Fintech & Sync
 *   **[Lume-Gateway](https://github.com/kauand3v/Lume-Gateway)** - *High-Performance API Gateway.* Built in Go to handle high-concurrency, featuring JWT authentication, rate limiting, and circuit breaking.
 *   **[KnotPay](https://github.com/kauand3v/KnotPay)** - *Polyglot Financial Engine.* Event-driven architecture for financial arbitration and orchestration using Python, Ruby, and Laravel.
 *   **[LatticeSync](https://github.com/kauand3v/LatticeSync)** - *Offline-First Sync Engine.* TypeScript-based engine using CRDTs (Conflict-free Replicated Data Types) to ensure seamless data synchronization without central conflict resolution.
 
 <br/>
+
+#### 🔬 Research & System Design
+*   **[Amphi](https://github.com/kauand3v/Amphi)** - *Autonomous Immune System for Critical Infrastructure.* A design exploration for kernel-level security and observability, combining eBPF telemetry, behavioral analysis, and graduated response. **Status: pre-alpha (architecture and design only).**
 
 ### 📊 GitHub Analytics
 
