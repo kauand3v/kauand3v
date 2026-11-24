@@ -68,7 +68,7 @@ I am a **Software Engineer** with 1+ year of hands-on experience architecting sy
 
 #### 🔬 Research & System Design
 
-* **[Amphi](https://github.com/kauand3v/Amphi)** — *Autonomous Linux Security, Observability & Operations Intelligence.* A pre-alpha infrastructure security project exploring the transition from passive monitoring to autonomous, behavioral, explainable, and policy-controlled defense. It aims to combine process and resource telemetry, threat detection, forensic visibility, infrastructure diagnostics, and controlled remediation through a unified architecture. A local Python MVP is under development, with eBPF-based telemetry, behavioral analysis, centralized fleet management, and advanced response capabilities planned for future iterations. **Status: pre-alpha — local Python MVP developed in VS Code; implementation not yet published for public review.**
+* **[Amphi](https://github.com/kauand3v/Amphi)** — *Autonomous Security, Observability & Operations Intelligence.* A pre-alpha infrastructure security project exploring the transition from passive monitoring to autonomous, behavioral, explainable, and policy-controlled defense. It aims to combine process and resource telemetry, threat detection, forensic visibility, infrastructure diagnostics, and controlled remediation through a unified architecture. A local Python MVP is under development, with eBPF-based telemetry, behavioral analysis, centralized fleet management, and advanced response capabilities planned for future iterations. **Status: pre-alpha — local Python MVP developed in VS Code; implementation not yet published for public review.**
   
 ### 📊 GitHub Analytics
 
